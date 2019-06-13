@@ -9,12 +9,16 @@ nav {
 body {
   text-align: center;
 }
-.same-height {
-  height: 70px;
+.dark {
+  background-color: #aaa;
 }
 .light {
   background-color: #ddd;
 }
-.dark {
-  background-color: #aaa;
+.same-height {
+  height: 70px;
+}
+
+.title {
+  font-weight: bold;
 }
