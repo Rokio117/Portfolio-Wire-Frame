@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+nav {
+  text-align: start;
+}
+body {
+  text-align: center;
+}
+.same-height {
+  height: 70px;
+}
+.light {
+  background-color: #ddd;
+}
+.dark {
+  background-color: #aaa;
+}
