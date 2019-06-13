@@ -22,3 +22,19 @@ body {
 .title {
   font-weight: bold;
 }
+#big-screen-menu {
+  display: none;
+}
+@media screen and (min-width: 768px) {
+  img {
+    width: 40%;
+  }
+}
+@media screen and (min-width: 1100px) {
+  #big-screen-menu {
+    display: inline-block;
+  }
+  #hamburger-button {
+    display: none;
+  }
+}
