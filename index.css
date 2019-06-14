@@ -59,3 +59,15 @@ body {
     margin-top: 70px;
   }
 }
+
+
+/*color styles*/
+#bio-nav, h2 {
+  color: teal;
+}
+#portfolio-nav, h3 {
+  color: rgb(237, 66, 36)
+}
+#contact-nav {
+  color: yellow;
+}
